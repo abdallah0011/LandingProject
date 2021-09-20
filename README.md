@@ -3,7 +3,7 @@
 # Landing Page Project
 	
 The project provides a multi-section landing page with a dynamically updating navigational menu based on the amount of content that is added to the page.
-The page implements some HTML and CSS and mostly focus on JavaScript implementation.
+The page implements some HTML and CSS but mostly focuses on JavaScript.
 
 ## Demo-Preview
 ![Page-Demo](https://i.imgur.com/9lpBlDm.png)
