@@ -48,4 +48,5 @@ Events:
 I have used the following links to gain some knowledge about some parts.
 
 -https://stackoverflow.com/questions/49680484/how-to-add-one-event-listener-for-all-buttons
+
 -https://stackoverflow.com/questions/37081721/use-variables-in-document-queryselector
