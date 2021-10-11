@@ -1,5 +1,4 @@
 # Landing Page Project
-	
 The project provides a multi-section landing page with a dynamically updating navigational menu based on the amount of content that is added to the page.
 The page implements some HTML and CSS but mostly focuses on JavaScript.
 
