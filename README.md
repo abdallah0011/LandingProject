@@ -11,7 +11,6 @@ The page implements some HTML and CSS but mostly focuses on JavaScript.
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Development](#development)
 - [Resources](#resources)
 
